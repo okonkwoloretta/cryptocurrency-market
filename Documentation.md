@@ -83,4 +83,4 @@ Please note that the analysis and recommendations provided in this documentation
 Cryptocurrency markets are highly volatile and subject to rapid changes. Therefore, it is essential to conduct further research and consult with financial professionals before making any investment decisions in the cryptocurrency market.
 
 ## Code
-You can find the code used for this project on [Here]().
+You can find the code used for this project on [Here](https://github.com/okonkwoloretta/cryptocurrency-market-/blob/main/Exploring%20the%20Bitcoin%20Cryptocurrency%20Market.ipynb).
